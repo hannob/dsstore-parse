@@ -13,10 +13,6 @@ import sys
 import warnings
 
 
-with open('README.md') as readme:
-    __doc__ = readme.read()
-
-
 # The Python types used for the different .DS_Store types:
 # 'bool': bool
 # 'shor': int
